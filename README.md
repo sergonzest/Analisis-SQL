@@ -1,0 +1,3 @@
+Para realizar este proyecto, he seguido los enunciados, ayudandome de los apuntes tomados durante las clases y las diapositivas. Ha sido un gran reto pero finalmente se ha conseguido.
+Durante el proyecto, he visto muchas veces el esquema de relación, para poder conectar las diferentes variables, las primary keys, muy importantes para la unión entre tablas y las foreing keys, menos imporotantes pero igual de utiles.
+En el proyecto, se han recogido datos muy importantes para la actividad de la empresa, para saber que es lo que más demandan los consumidores y lo que menos- Con esto, nos ayuda a saber a donde queremos llevar el negocio para poder ser más eficientes, productivos y rentables.
